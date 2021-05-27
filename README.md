@@ -10,23 +10,19 @@
 
 ### Languages
 
-<p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-</p>
 
 ### Technologies
 
-<p align="center">
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next](https://img.shields.io/badge/-Next-000?&logo=Next)
 ![Nest](https://img.shields.io/badge/-Nest-000?&logo=Nest)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
