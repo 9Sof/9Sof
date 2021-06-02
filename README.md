@@ -4,7 +4,7 @@
 <p align="center">
 <a href="mailto:madsoffee.yk@gmail.com"><img src="https://img.shields.io/badge/-madsoffee.yk@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/madsoffee_yk"><img src="https://img.shields.io/badge/-@madsoffee__yk-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/madsoffee"><img src="https://img.shields.io/badge/-@Madsoffee-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/madsoffee"><img src="https://img.shields.io/badge/-@Madsoffee YK-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.youtube.ca/UCvFweIXouc3wPLKNb69H2Hw"><img src="https://img.shields.io/badge/-@MADSOFFEE YK.-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>
 
