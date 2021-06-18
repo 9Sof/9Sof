@@ -29,7 +29,7 @@
 ![9Sof's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=9Sof&show_icons=true&theme=algolia&include_all_commits=true&count_private=true);
 <p align="center">
 <a href="https://github.com/9Sof">
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=9Sof&show_icons=true&include_all_commits=true&theme=material-palenight" alt="9Sof's github stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=9Sof&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="9Sof's github stats"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=9Sof&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
