@@ -1,5 +1,5 @@
-# Hi! I'm Soffee. 
-### [My Profile](https://soffee-resume-2021.herokuapp.com/ "View My Profile")
+# Hi! [I'm Soffee.](https://soffee-resume-2021.herokuapp.com/ "View My Profile")
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
