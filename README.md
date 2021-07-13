@@ -1,4 +1,4 @@
-# Hi! [I'm Soffee.](https://soffee-resume-2021.herokuapp.com/ "View My Profile")
+# Hi! [I'm Soffee.](https://soffee-resume-2021.herokuapp.com/ "View My Profile")<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
